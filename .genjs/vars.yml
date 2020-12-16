@@ -1,0 +1,12 @@
+author: {name: Rodolphe Eveilleau, email: rodolphe@eveilleau.fr}
+company: Rodolphe Eveilleau
+project_prefix: rdphv
+project_name: libs-js
+bucket_prefix: $(prefix)-rdphv
+project_description: Packages JS
+project_git_url: git@github.com:rdphv/libs-js.git
+github_aws_profile: rdphv-${{env.env}}
+npm_scope: rdphv
+scm: github
+license: MIT
+node_version: 14.3.0

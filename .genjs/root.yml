@@ -1,0 +1,11 @@
+type: monorepo-js-libs
+vars:
+  aws_profile: rdphv-dev
+  generator_package: true
+  storybooks: true
+  svg_components: true
+  makefile:
+    deployable_storybooks: true
+    generate_target: true
+  readme:
+    name: libs-js
