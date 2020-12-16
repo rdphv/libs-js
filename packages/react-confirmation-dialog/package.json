@@ -1,6 +1,6 @@
 {
   "name": "@rdphv/react-confirmation-dialog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Boîte de dialogue de confirmation (Modal) basé sur Material UI Dialog",
   "license": "MIT",
   "main": "lib/index.js",

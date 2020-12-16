@@ -1,6 +1,6 @@
 {
   "name": "@rdphv/generator-package",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Package Generator (Yeoman)",
   "license": "MIT",
   "main": "lib/index.js",
